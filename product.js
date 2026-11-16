@@ -119,7 +119,7 @@ const products = [
     colors: ["Black", "White"],
     isFeatured: true,
     isAvailable: true,
-    createdAt: "2026-10-11T11:20:00Z",
+    createdAt: "2026-10-11T11:20:01Z",
   },
   {
     id: 7,
